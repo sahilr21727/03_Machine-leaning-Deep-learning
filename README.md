@@ -41,7 +41,7 @@
          - f1_score
          - roc_auc_score 
          - roc_curve
-  5. 🔧**Hypertuning** 
+  5. 📈**Hypertuning** 
       - Add parameters into algortthims using model list
       - andomizedSearchCV
       - Then run algorithms
