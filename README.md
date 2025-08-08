@@ -42,9 +42,9 @@
          - roc_auc_score 
          - roc_curve
   5. 🔧**Hypertuning** \
-    - Enter parameters into algortthims using model list
-    - andomizedSearchCV
-    - Then run algorithms
-    - Plotting with the ROC AUC Curve
-  
+      - Add parameters into algortthims using model list
+      - andomizedSearchCV
+      - Then run algorithms
+      - Plotting with the ROC AUC Curve
+
   
