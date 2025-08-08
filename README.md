@@ -33,15 +33,9 @@
   - **Performance metrics for both training and testing data**
     - Then we check training performance by giving y_train & predict y_train data to performance metrics 
     - Then we check test performance by giving y_test & predict y_test data to performance metrics 
-    - For Classification Algorithms
-         - accuracy_score 
-         - classification_report
-         - precision_score,
-         - recall_score
-         - f1_score
-         - roc_auc_score 
-         - roc_curve
-  5. 📈**Hypertuning** 
+      - Classification Models: Use accuracy, precision, recall, F1-score, etc.
+      - Regression Models: Evaluate with metrics like MSE, RMSE, or R².
+  1. 📈**Hypertuning** 
       - Add parameters into algortthims using model list
       - andomizedSearchCV
       - Then run algorithms
