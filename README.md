@@ -1,8 +1,8 @@
-# Machine Learning
+# 🌟 Machine Learning 🌟
 ## Steps
-- ***Problem statement***
-- ***Data collection***
-- ***Data cleaning***
+1. 🧩 ***Problem statement***
+2. 📊 ***Data collection***
+3. 🧹 ***Data cleaning***
   - Check categorical values of columns if they have **error in names** using count.value(). If any, replace their names
   - Check the **missing value** and separate them in dataset for easiness
     - Separete numerical columns and categorical columns in two dataframe
@@ -12,8 +12,8 @@
   - Reducing **Number of colulmn**
     - Drop any unnecessary categorical column
     - Combine similar numerical columns if it is possible. And dorp their original columns
-  - 
-- ***Model Training***
+
+4. 🚀 ***Model Training***
   - **Train test splitting of data**
     - Separete input as X and output as y using drop function
     - Split X into **X_train & X_test** and **y_train & y_test** using *train_test_split* function from *sklearn.model_selection*
@@ -41,7 +41,7 @@
          - f1_score
          - roc_auc_score 
          - roc_curve
-  - **Hypertuning**
+  5. 🔧**Hypertuning** 
     - Enter parameters into algortthims using model list
     - andomizedSearchCV
     - Then run algorithms
