@@ -1,4 +1,9 @@
 # 🌟 Machine Learning 🌟
+Author: **Ali Raza** \
+Date: **2025-07-31** \
+Project Type: **Mock Project** \
+Email: <sahilr21727@gmail.com>
+
 ## Steps
 1. 🧩 ***Problem statement***
 2. 📊 ***Data collection***
